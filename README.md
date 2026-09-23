@@ -67,6 +67,23 @@ AAPL had 142 positive trading days and 108 negative trading days, meaning positi
 
 The results show that AAPL generated a positive return during the selected period while also experiencing noticeable daily price variation.
 
+## Live Dashboard
+
+The project also includes an interactive Streamlit dashboard where users can select a stock ticker and date range.
+
+**Live Dashboard:**  
+https://ds3-stock-price-visualization.onrender.com/
+
+The dashboard includes:
+
+- Stock ticker selection
+- Start and end date selection
+- Closing price trend
+- 20-day and 50-day moving averages
+- Daily returns distribution
+- Return and volatility statistics
+- Automatic interpretation of the selected data
+
 ## How to Reproduce
 
 ### 1. Clone the repository
@@ -74,3 +91,6 @@ The results show that AAPL generated a positive return during the selected perio
 ```bash
 # Clone the project repository from GitHub
 git clone https://github.com/jeysiii02/DS_3_StockPriceDataVisualization_byte.git
+
+# Move into the project folder
+cd DS_3_StockPriceDataVisualization_byte
