@@ -3,5 +3,6 @@ numpy
 matplotlib
 seaborn
 yfinance
+streamlit
 jupyter
 ipykernel
