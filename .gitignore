@@ -1,0 +1,9 @@
+# Ignore the project virtual environment
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter temporary checkpoint files
+.ipynb_checkpoints/
